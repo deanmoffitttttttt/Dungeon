@@ -1,24 +1,11 @@
  
-
-
-> Open this page at [https://deanmoffitttttttt.github.io/dungeon/](https://deanmoffitttttttt.github.io/dungeon/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
+Simple dungeon game 
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/deanmoffitttttttt/dungeon** and import
 
-## Edit this project ![Build status badge](https://github.com/deanmoffitttttttt/dungeon/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/deanmoffitttttttt/dungeon** and click import
 
 ## Blocks preview
 
